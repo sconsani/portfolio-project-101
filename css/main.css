@@ -1,13 +1,6 @@
-h1 {
-	font-family: lora;
+html {
+	background: #f0e4d4;
 }
-
-.welcome {
-	background: url(../me-nutella.jpeg) no-repeat 0px 0px ;
-	height: 650px;
-	width: auto ;
-}
-
 
 .container {
 	padding-top: 45px;
@@ -16,3 +9,33 @@ h1 {
 .nav-item {
 	padding-right: 20px;
 }
+
+.nav-item a {
+	color: #2e9599 !important;
+}
+
+.nav-item a:hover {
+	color: white !important;
+}
+
+
+.nav-link {
+	color: blue;
+	font-family: 'RocknRoll One', sans-serif;
+}
+
+.container .navbar-brand {
+	font-family: 'RocknRoll One', sans-serif;
+	font-size: 20px;
+	color: #2e9599 !important;
+
+}
+
+.container .navbar-brand:hover {
+	color: white !important;
+}
+
+
+.navbar-nav li{
+  font-size: 18px;
+  }
