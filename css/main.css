@@ -207,7 +207,6 @@ a .project-item {
 footer{
 	padding: 15px 0px 15px 0px;
 	font-family: 'RocknRoll One', sans-serif;
-	color:#2e9599;
 	display: inline;
 	border-top: 2px;
 	border-color: #2e9599;
@@ -222,6 +221,7 @@ footer{
 	margin-left: 0 !important;
 	margin-right: 50px;
 	display: inline;
+	color: #2e9599;
 }
 
 .footer-link:hover{
@@ -232,6 +232,15 @@ footer{
 	width: 100%;
 	text-align: center;
 }
+
+#orange {
+	color: orange !important;
+}
+
+#orange:hover{
+	color: #2e9599 !important;
+}
+
 
 
 
