@@ -72,6 +72,12 @@ header {
   	font-size: 20px;
   }
 
+ /* #about {
+  	height: 300px;
+  	width: 100%;
+  	overflow: scroll;
+  }*/
+
   .welcome-note {
   	padding-top: 80px;
   	height: 300px;
@@ -99,10 +105,14 @@ header {
   }
 
 
+
+
 .square {
 	border: 2px orange solid;
 
 }
+
+
 
 .projects-grid{
 	color:#2e9599;
