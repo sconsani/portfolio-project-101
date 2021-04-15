@@ -1,10 +1,24 @@
 html {
 	background: #f0e4d4;
+	color: #f0e4d4;
+
 }
+
+body{
+	color: #f0e4d4;;
+	background: #f0e4d4;
+
+}
+
 
 .container {
 	padding-top: 45px;
 }
+
+header {
+	background: #f0e4d4;
+}
+
 
 .nav-item {
 	padding-right: 20px;
@@ -39,3 +53,73 @@ html {
 .navbar-nav li{
   font-size: 18px;
   }
+
+  .sections {
+  	display: inline;
+  }
+
+
+  p{
+  	color: black;
+  	font-size: 30px;
+  	background: #f0e4d4;
+  	text-align: justify;
+  }
+
+  .projects-about {
+  	font-size: 15px;
+  }
+
+  .welcome-note {
+  	padding-top: 150px;
+  	height: 300px;
+  	width: 100%;
+  	background: #f0e4d4;
+  	padding-right: 300px;
+  	padding-left: 300px;
+  }
+
+  .s:hover{
+  	color: #a8216b;
+  }
+
+  .f:hover{
+  	color: #f36943;
+  }
+
+  .d:hover{
+  	color: #f7dc66;
+  }
+
+  .p:hover{
+  	color: #2e9599;
+
+  }
+.projects-grid{
+	color:#2e9599;
+	background: #f0e4d4;
+	margin: 0px;
+	padding: 100px;
+
+
+}
+
+.projects-grid h2{
+	font-family: 'RocknRoll One', sans-serif;
+}	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
