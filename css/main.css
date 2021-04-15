@@ -1,12 +1,14 @@
 html {
 	background: #f0e4d4;
 	color: #f0e4d4;
+	
 
 }
 
 body{
 	color: #f0e4d4;;
 	background: #f0e4d4;
+
 
 }
 
@@ -67,7 +69,7 @@ header {
   }
 
   .projects-about {
-  	font-size: 15px;
+  	font-size: 20px;
   }
 
   .welcome-note {
@@ -107,13 +109,12 @@ header {
 	background: #f0e4d4;
 	margin: 0px;
 	padding: 80px 100px 20px 150px;
-
-
 }
 
 .projects-grid h2{
 	font-family: 'RocknRoll One', sans-serif;
 	font-size: 35px;
+	padding-top: 90px;
 }	
 
 
@@ -145,6 +146,7 @@ header {
 	grid-gap: 20px 20px;
 	padding: 10px 100px 100px 150px;
 	background-color: #f0e4d4;
+
 	/*z-index: 1;*/
 	/*width: 80%;*/
 }
@@ -153,6 +155,7 @@ header {
 .project-item:link{
 	color: black !important;
 	text-decoration: none;
+	width: 328px;
 }
 
 .project-item :visited{
@@ -184,6 +187,10 @@ a .project-item {
 	padding: 20px;
 	font-size: 30px;
 	text-align: justify;
+}
+
+.project-title {
+	font-weight: bold;
 }
 
 
