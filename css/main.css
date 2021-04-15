@@ -71,7 +71,7 @@ header {
   }
 
   .welcome-note {
-  	padding-top: 150px;
+  	padding-top: 80px;
   	height: 300px;
   	width: 100%;
   	background: #f0e4d4;
@@ -106,13 +106,14 @@ header {
 	color:#2e9599;
 	background: #f0e4d4;
 	margin: 0px;
-	padding: 100px 100px 20px 100px;
+	padding: 80px 100px 20px 150px;
 
 
 }
 
 .projects-grid h2{
 	font-family: 'RocknRoll One', sans-serif;
+	font-size: 35px;
 }	
 
 
@@ -142,7 +143,7 @@ header {
 	display: grid;
 	grid-template-columns: auto auto auto;
 	grid-gap: 20px 20px;
-	padding: 10px;
+	padding: 10px 100px 100px 150px;
 	background-color: #f0e4d4;
 	/*z-index: 1;*/
 	/*width: 80%;*/
@@ -154,24 +155,21 @@ header {
 	text-decoration: none;
 }
 
-.project-item h3:visited{
+.project-item :visited{
 	color: black !important;
 	text-decoration: none;
 }
 
-.project-item h3:hover{
+.project-item :hover{
 	color: black !important;
 	text-decoration: none;
 }
 
-.project-item h3:active{
+.project-item :active{
 	color: black !important;
 	text-decoration: none;
 }
 
-#project-container h4:hover{
-	color: black !important;
-}
 
 .grid-item{
 	background-color: blue;
