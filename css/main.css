@@ -81,10 +81,17 @@ header {
   .welcome-note {
   	padding-top: 80px;
   	height: 300px;
+  	max-height: 300px;
   	width: 100%;
   	background: #f0e4d4;
   	padding-right: 300px;
   	padding-left: 300px;
+  	overflow: scroll;
+
+  }
+
+  .f-right {
+  
   }
 
   .s:hover{
